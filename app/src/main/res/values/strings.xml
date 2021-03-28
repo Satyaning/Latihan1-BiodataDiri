@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Biodata</string>
+    <string name="nim">10118058</string>
+    <string name="nama">Satyaning Andaru</string>
+    <string name="kelas">IF-2</string>
+    <string name="jenis_kelamin">Laki-laki</string>
+    <string name="ttl">Klaten, 3 September 2000</string>
+    <string name="alamat">Griya Yudha Garuda blok D 12 B</string>
+    <string name="goldar">B</string>
+    <string name="makananK">Pecel</string>
+    <string name="minumanK">Air bening</string>
+    <string name="hobi">Bermusik</string>
+    <string name="lagufavorit">Semua tentang kita</string>
+    <string name="filmFavorit">Doraemon</string>
+    <string name="pekerjaanYgdiminati">UI/UX</string>
+</resources>
